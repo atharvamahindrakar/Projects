@@ -36,6 +36,7 @@ Feel free to explore, contribute, or suggest new project ideas!
 
 🔗 Connect with Me
 If you have questions, suggestions, or collaboration ideas, feel free to reach out!
+
 📩 Email: atharva77.mahindrakar@gmail.com
 
 LinkedIn - linkedin.com/in/atharvamahindrakar
