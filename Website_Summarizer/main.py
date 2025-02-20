@@ -96,4 +96,4 @@ def display_summary(url):
 
 
 # Run the summarization function on the given website
-display_summary("https://edwarddonner.com")
+display_summary("https://www.magna.com/careers")
