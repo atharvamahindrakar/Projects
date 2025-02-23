@@ -156,7 +156,4 @@ Ready to be part of a vibrant community that's shaping the future of AI? Explore
 Feel free to submit issues, suggest improvements, or contribute! Open a Pull Request (PR) with your ideas. 🚀
 
 
-📢 Contact
-📩 Email: atharva77.mahindrakar@gmail.com
 
-LinkedIn - linkedin.com/in/atharvamahindrakar
