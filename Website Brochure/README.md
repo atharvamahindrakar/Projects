@@ -8,9 +8,8 @@ This project generates a **company brochure** using **Large Language Models (LLM
 ✔ **Extracts important links** (About, Careers, etc.) from the website.  
 ✔ **Uses `llama3.2` (Ollama) to summarize** the website data into a brochure.  
 ✔ **Streams responses in real-time** while generating output.  
-✔ **Clickable links in VS Code** for easy navigation.  
-✔ **Saves the brochure to `brochure.md`** for a clean formatted view.
-
+✔ **Demonstrates the brochure in an attractive way** with a clean formatted view.
+✔ **Can change the tone in different ways to make the brochures more attractive.  
 ---
 
 ## ⚙️ **Installation & Setup**
