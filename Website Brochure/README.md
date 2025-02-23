@@ -20,16 +20,21 @@ This project generates a **company brochure** using **Large Language Models (LLM
 git clone https://github.com/your-username/Projects.git
 cd Projects/Website Brochure
 
+
 ### **Create a Virtual Environment**
 python -m venv venv
+
 
 ### **Activate it:**
 venv\Scripts\activate
 
+
 ### **Install Dependencies**
 pip install -r requirements.txt
 
+
 🛠️ Usage
+
 Generate a Brochure for Any Company
 **Run the script:**
 python main.py
@@ -127,18 +132,7 @@ We are currently hiring talented individuals in the following roles: [list job o
 * Competitive salaries and benefits
 * Opportunities for professional growth and development
 * A dynamic work environment that fosters creativity and innovation
-
-We are currently hiring talented individuals in the following roles: [list job openings]
-
-## Join Us
-
-We are currently hiring talented individuals in the following roles: [list job openings]
-
-## Join Us
-
-## Join Us
-## Join Us
-
+* 
 Ready to be part of a vibrant community that's shaping the future of AI? Explore our current job openings and stay up-to-date on company news and updates.
 
 [Visit our careers page](link)
@@ -152,13 +146,17 @@ Ready to be part of a vibrant community that's shaping the future of AI? Explore
 
 
 🚀 Future Improvements
+
 ✅ Support multi-page company reports.
 ✅ Add PDF export functionality.
 ✅ Improve tone & formatting options for the brochure.
 
 🤝 Contributing
+
 Feel free to submit issues, suggest improvements, or contribute! Open a Pull Request (PR) with your ideas. 🚀
+
 
 📢 Contact
 📩 Email: atharva77.mahindrakar@gmail.com
+
 LinkedIn - linkedin.com/in/atharvamahindrakar
