@@ -10,12 +10,16 @@ This tool leverages:
 
 🧠 LLaMA-3.1 for context-aware summarization
 
+
+
 🚀 Features
 
 ✅ Upload an audio file of a meeting (supports .mp3, .wav, etc.)
 ✅ AI-generated transcription using Whisper AI
 ✅ Automatic summarization with key discussion points and action items
 ✅ Structured markdown output for easy reading
+
+
 
 
 🏗️ Technologies Used
@@ -31,6 +35,8 @@ Hugging Face Transformers 🏆
 BitsAndBytes Quantization ⚡
 
 PyTorch (for deep learning execution) 🔥
+
+
 
 
 BitsAndBytes Quantization for Optimization
@@ -51,6 +57,8 @@ This results in lower memory consumption and faster inference, making it feasibl
 
 💡 Credits
 
-Developed by Atharva Mahindrakar 🛠️Powered by Whisper AI and LLaMA-3.1
+Developed by Atharva Mahindrakar
+
+🛠️Powered by Whisper AI and LLaMA-3.1
 
 📌 Contributions are welcome! Feel free to open an issue or submit a PR. 🤝
