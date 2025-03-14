@@ -18,11 +18,7 @@ Each project is stored in a separate folder inside this repository.
 Each project has its own **virtual environment** and dependencies.
 
 🔥 Current Projects
-Here are some of the LLM-based projects currently in this repository:
-
-📝 1. Website Summarizer
-Scrapes website text and summarizes content using LLM.
-Uses BeautifulSoup for web scraping & Ollama API for text generation.
+The projects seen here are all done for the knowledge of LLM and its uses in the industry
 
 👨‍💻 About Me
 I am Atharva Mahindrakar, a masters student in Germany passionate about Large Language Models (LLMs) and their applications.
